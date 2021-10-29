@@ -1,0 +1,30 @@
+body {
+  background-color: #EAF6f6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+/** Class Selector: Use class often *****/
+.money {
+  border-radius: 50%;
+}
+
+/** ID Selector: Must be unique and only use once *****/
+#heading {
+  color: blue;
+}
+
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+height: 5px;
+width: 5%;
+}
